@@ -7,6 +7,7 @@ Place: 17
 Date: 30.09.2022
 
 ![i](pic2.png)
+![i](pic3.pdf)
 
 ## Qualification round of the Ural Regional ICPC Championship 
 ### quarterfinals of the World Programming Championship
@@ -21,4 +22,4 @@ Date: 08.10.2022
 Plase: 11
 Date: 09.10.2022
 
-![i](pic3.png)
+![i](pic4.png)
