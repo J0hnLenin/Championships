@@ -7,7 +7,7 @@ Place: 17
 Date: 30.09.2022
 
 ![i](pic2.png)
-{r label, out.width = "85%", fig.cap = "caption"} include_graphics("pic3.pdf")
+![i](pic3.png)
 
 ## Qualification round of the Ural Regional ICPC Championship 
 ### quarterfinals of the World Programming Championship
